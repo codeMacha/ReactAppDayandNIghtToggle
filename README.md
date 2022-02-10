@@ -1,4 +1,4 @@
-#using the npm library avaialbel in
+# using the npm library available in:
 https://www.npmjs.com/package/react-day-and-night-toggle
 
 # Getting Started with Create React App
